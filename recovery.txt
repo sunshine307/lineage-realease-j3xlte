@@ -13,3 +13,5 @@ When you boot for the first time on recovery, it will prompt you to change the l
 Note: For this device it is necessary to have enabled OEM Unlock in:
 Settings -> Developer Options -> OEM unlocking
 Or you may encouter "BLOCKED BY FRP LOCK" on boot.
+
+You can find file recovery [here](https://github.com/sunshine307/lineage-realease-j3xlte/releases/download/twrp_3.0.2-1_sm-j320h_261016.tar/twrp_3.0.2-1_sm-j320h_261016.tar)
