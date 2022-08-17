@@ -1,0 +1,10 @@
+To install TWRP:
+
+Boot to DOWNLOAD mode.
+Flash with ODIN in the AP slot.
+Uncheck Auto reboot.
+Load the respective file below into the AP slot and hit start.
+After flashing when ODIN says PASS immediately reboot to recovery by holding POWER + HOME + VOL DOWN.
+As soon as the screen goes blank change to VOL UP whilst still holding the other buttons.
+You should now see TWRP recovery.
+
