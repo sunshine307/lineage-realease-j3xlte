@@ -1,10 +1,15 @@
-To install TWRP:
+How to flash recovery
 
-Boot to DOWNLOAD mode.
-Flash with ODIN in the AP slot.
-Uncheck Auto reboot.
-Load the respective file below into the AP slot and hit start.
-After flashing when ODIN says PASS immediately reboot to recovery by holding POWER + HOME + VOL DOWN.
-As soon as the screen goes blank change to VOL UP whilst still holding the other buttons.
-You should now see TWRP recovery.
-
+Turn off your phone
+Restart it in download mode by keeping volume down + home + power
+Confirm the entry in the download mode with volume up
+Plug your phone into your PC and run Odin (you should see the COM port in blue)
+Click on AP and select the tar.md5 recovery file
+Click on options and leave only "F. Reset Time"
+Click Start
+(Your device will not restart automatically this is voluntary because otherwise the original rom will erase TWRP.)
+To restart it keep down volume down + home + power as soon as it goes off restart it on recovery by keeping it up volume up + home + power
+When you boot for the first time on recovery, it will prompt you to change the language and avoid deleting the recovery.
+Note: For this device it is necessary to have enabled OEM Unlock in:
+Settings -> Developer Options -> OEM unlocking
+Or you may encouter "BLOCKED BY FRP LOCK" on boot.
