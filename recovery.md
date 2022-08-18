@@ -14,4 +14,4 @@ Note: For this device it is necessary to have enabled OEM Unlock in:
 Settings -> Developer Options -> OEM unlocking
 Or you may encouter "BLOCKED BY FRP LOCK" on boot.
 
-You can find file recovery [here](https://github.com/sunshine307/lineage-realease-j3xlte/releases/download/twrp_3.0.2-1_sm-j320h_261016.tar/twrp_3.0.2-1_sm-j320h_261016.tar)
+You can find file recovery [here](https://github.com/sunshine307/lineage-realease-j3xlte/releases/tag/twrp_3.0.2-1_sm-j320h_261016.tar)
