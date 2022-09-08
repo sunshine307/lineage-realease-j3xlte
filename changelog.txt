@@ -1,7 +1,8 @@
-Update security patch to 5 August 2022
+Update security patch to 5 September 2022
 Bassed port lineage api 14.0
 Bassed android 7.1.2
 Make kernel 3.10.100
 Api LineageOS Guava (7)
 Safetynet passed by default
 Vanila build
+
