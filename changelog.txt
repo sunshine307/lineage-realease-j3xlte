@@ -5,4 +5,4 @@ Make kernel 3.10.100
 Api LineageOS Guava (7)
 Safetynet passed by default
 Vanila build
-
+New Maintainer Is Sunshine307
